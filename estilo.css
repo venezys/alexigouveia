@@ -1,4 +1,4 @@
-    body{margin: 150px; padding: 50px; background-image: url(/Img/fundo.jpeg);background-attachment: fixed; background-size: cover; background-repeat:no-repeat;
+    body{margin: 150px; padding: 50px; background-image: url(/img/fundo.jpeg);background-attachment: fixed; background-size: cover; background-repeat:no-repeat;
     width: fit-content;}
 
     .Titulo{font-size:70px;color:rgb(255, 255, 255); text-align:center;background-color: rgb(119, 119, 236); border:5px solid black;}
@@ -10,22 +10,19 @@
     .minhalista li{font-size: 30px; margin-bottom: 2%;}
     
     .imagemprincipal{border-radius: 15px ;width: 610px;}
+
     table td{border: solid 3px; color: ;}
             
-    .emirados{background-image:url(/Img/bandeira-dos-emirados-arabes-unidos_1401-251.jpg);background-size:cover;color: rgb(20, 2, 2); background-repeat: no-repeat;font-size: 200%; text-align: center;}
+    .emirados{background-image:url(/img/bandeira-dos-emirados-arabes-unidos_1401-251.jpg);background-size:cover;color: rgb(20, 2, 2); background-repeat: no-repeat;font-size: 200%; text-align: center;}
     
-    .republica{background-image: url(/Img/republica.jpeg);color: aliceblue;background-size:cover; color: rgb(14, 1, 1); background-repeat: no-repeat;font-size: 200%;text-align: center;}
+    .republica{background-image: url(/img/republica.jpeg);color: aliceblue;background-size:cover; color: rgb(14, 1, 1); background-repeat: no-repeat;font-size: 200%;text-align: center;}
     
-    .euas{background-image: url(/Img/Flag_of_the_United_States.svg.jpeg);background-size:cover; text-decoration: rgb(255, 255, 255); background-repeat: no-repeat; font-size: 200%;text-align: center;}
+    .euas{background-image: url(/img/Flag_of_the_United_States.svg.jpeg);background-size:cover; text-decoration: rgb(255, 255, 255); background-repeat: no-repeat; font-size: 200%;text-align: center;}
 
     p{color: black;font-size: 200%;}
 
     .link:hover{color:  red;}
 
-    .imagemm{background: url("/Img/cachorro1.jpg") no-repeat;width: 300px;height: 300px;font-weight;display: block;background-size: contain;}
-    
-    .imagemm:hover{background-image:url(/Img/cachorro2.jpeg);}.imagemm:active{background-image: url(/Img/cachorro3.jpg);}
-    
     .botão{background-color: greenyellow; font-family:Arial; font-size: 15px;}
     
     .botão:hover{background-color: red;}
