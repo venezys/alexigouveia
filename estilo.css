@@ -1,4 +1,4 @@
-    body{margin: 150px; padding: 50px; background-image: url(/alexigouveia/img/fundo.jpeg);background-attachment: fixed; background-size: cover; background-repeat:no-repeat;
+    body{margin: 150px; padding: 50px; background-image: url(https://venezys.github.io/img/fundo.jpeg);background-attachment: fixed; background-size: cover; background-repeat:no-repeat;
     width: fit-content;}
 
     .Titulo{font-size:70px;color:rgb(255, 255, 255); text-align:center;background-color: rgb(119, 119, 236); border:5px solid black;}
@@ -13,11 +13,11 @@
 
     table td{border: solid 3px; color: ;}
             
-    .emirados{background-image:url(/alexigouveia/img/bandeira-dos-emirados-arabes-unidos_1401-251.jpg);background-size:cover;color: rgb(20, 2, 2); background-repeat: no-repeat;font-size: 200%; text-align: center;}
+    .emirados{background-image:url(https://venezys.github.io/img/bandeira-dos-emirados-arabes-unidos_1401-251.jpg);background-size:cover;color: rgb(20, 2, 2); background-repeat: no-repeat;font-size: 200%; text-align: center;}
     
-    .republica{background-image: url(/alexigouveia/img/republica.jpeg);color: aliceblue;background-size:cover; color: rgb(14, 1, 1); background-repeat: no-repeat;font-size: 200%;text-align: center;}
+    .republica{background-image: url(https://venezys.github.io/img/republica.jpeg);color: aliceblue;background-size:cover; color: rgb(14, 1, 1); background-repeat: no-repeat;font-size: 200%;text-align: center;}
     
-    .euas{background-image: url(/alexigouveia/img/Flag_of_the_United_States.svg.jpeg);background-size:cover; text-decoration: rgb(255, 255, 255); background-repeat: no-repeat; font-size: 200%;text-align: center;}
+    .euas{background-image: url(https://venezys.github.io/img/Flag_of_the_United_States.svg.jpeg);background-size:cover; text-decoration: rgb(255, 255, 255); background-repeat: no-repeat; font-size: 200%;text-align: center;}
 
     p{color: black;font-size: 200%;}
 
