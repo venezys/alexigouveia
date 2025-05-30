@@ -1,4 +1,4 @@
-    body{margin: 150px; padding: 50px; background-image: url(alexigouveia/img/fundo.jpeg);background-attachment: fixed; background-size: cover; background-repeat:no-repeat;
+    body{margin: 150px; padding: 50px; background-image: url("img/fundo.jpeg");background-attachment: fixed; background-size: cover; background-repeat:no-repeat;
     width: fit-content;}
 
     .Titulo{font-size:70px;color:rgb(255, 255, 255); text-align:center;background-color: rgb(119, 119, 236); border:5px solid black;}
